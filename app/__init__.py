@@ -1,0 +1,1 @@
+"""Domain lead management application."""

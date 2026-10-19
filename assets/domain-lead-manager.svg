@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Domain Lead Manager">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#315f85"/>
+      <stop offset="1" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="pin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#5b9bd5"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="27" fill="url(#bg)"/>
+  <path d="M64 20c-19 0-34 15-34 34 0 25 34 54 34 54s34-29 34-54c0-19-15-34-34-34z" fill="url(#pin)" stroke="#dbeafe" stroke-width="4"/>
+  <circle cx="64" cy="54" r="13" fill="#1f2937" stroke="#f8fafc" stroke-width="4"/>
+  <path d="M43 83h42M48 91h32" fill="none" stroke="#f8fafc" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="43" cy="83" r="4" fill="#f8fafc"/>
+  <circle cx="85" cy="83" r="4" fill="#f8fafc"/>
+</svg>
